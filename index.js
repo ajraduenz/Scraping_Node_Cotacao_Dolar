@@ -10,5 +10,3 @@ async function acess(){
     console.log(cotacao)
 }
 acess()
-
-{/*<input class="field normal" name="currency2" value="5,74" data-audience-click="{&quot;reference&quot;:&quot;ativar-campo-texto&quot;,&quot;component&quot;:&quot;currency-converter&quot;}">*/}
